@@ -15,14 +15,19 @@
 
 ---
 
- <a href="">Getting Started</a> •  <a href="">Features</a> • <a href="">Examples</a> • <a href="">Documentation</a> • <a href="">Source</a> • <a href="">Contributing</a>
+ <a href="https://github.com/ariessetiyawan/neonize-wa-api?tab=readme-ov-file#-abaut">About</a> • <a href="https://github.com/ariessetiyawan/neonize-wa-api?tab=readme-ov-file#-examples">Examples</a> • <a href="https://github.com/ariessetiyawan/neonize-wa-api?tab=readme-ov-file#-documentation">Documentation</a> • <a href="https://github.com/ariessetiyawan/neonize-wa-api?tab=readme-ov-file#-source">Source</a>
 
 </div>
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f859e8b-1057-452d-b522-44e81a86a2b9" />
 
-# neonize-wa-api
-Creating a Unofficial WhatsApp API Using Python with Neonize Library.
+# 🧩 Neonize-wa-api
+✅ Creating a Unofficial WhatsApp API Using Python with Neonize Library.
+
+✅ Complete WhatsApp REST API with comprehensive media support.
+
+✅ Single session.
+
 
 ## 📖 Documentation
 
