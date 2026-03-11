@@ -1,8 +1,28 @@
-# neonize-wa-api
-Creating a Unofficial WhatsApp API Using Python with Neonize Library.
-https://github.com/classyid/neonize-whatsapp-api
+<div align="center">
+  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/ebcb0e02-7261-4fc4-9590-27be441ec591" />
+</div>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Flask](https://img.shields.io/badge/Flask-2.3+-green.svg)
+![Neonize](https://img.shields.io/badge/Neonize-0.3.11-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
+
+**Complete WhatsApp REST API with comprehensive media support**
+
+*Create QrCode • Send text, images, documents, audio, video & stickers programmatically*
+
+---
+
+ <a href="">Getting Started</a> •  <a href="">Features</a> • <a href="">Examples</a> • <a href="">Documentation</a> • <a href="">Source</a> • <a href="">Contributing</a>
+
+</div>
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f859e8b-1057-452d-b522-44e81a86a2b9" />
+
+# neonize-wa-api
+Creating a Unofficial WhatsApp API Using Python with Neonize Library.
 
 ## 📖 Documentation
 
@@ -160,3 +180,7 @@ console.log(await imageResponse.json());
 ```
 
 ---
+
+## 📎 Source
+1. https://github.com/krypton-byte/neonize
+2. https://github.com/classyid/neonize-whatsapp-api
