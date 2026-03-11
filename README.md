@@ -1,5 +1,6 @@
 # neonize-wa-api
 Creating a Unofficial WhatsApp API Using Python with Neonize Library.
+https://github.com/classyid/neonize-whatsapp-api
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1f859e8b-1057-452d-b522-44e81a86a2b9" />
 
@@ -10,7 +11,7 @@ Creating a Unofficial WhatsApp API Using Python with Neonize Library.
 | Endpoint | Method | Description | Media Support |
 |----------|--------|-------------|---------------|
 | `GET /` | GET | API health & info | - |
-| `GET /api/qrcode/<type>` | GET | Bot QRCode Created | Text | Base64 | Images|
+| `GET /api/qrcode/<type>` | GET | Bot QRCode Created | Text,Base64,Images|
 | `GET /api/status` | GET | Bot connection status | - |
 | `POST /api/send-message` | POST | Send text message | Text |
 | `POST /api/send-image` | POST | Send image with caption | Images |
